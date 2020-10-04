@@ -21,20 +21,20 @@
 ### Challenges and Difficulties Encountered
 
 The requested ranges are very broad when trying to narrow down "best chance for success" to gain funding for future projects.
--Establish a smaller range within the range of the overall scope.
--Establish a reasonable quantified target amount to expect for future crowdfunding a projects
+- Establish a smaller range within the range of the overall scope.
+- Establish a reasonable quantified target amount to expect for future crowdfunding a projects
 
 The below chart shows that within the range of $1k to $5k, just under $2500 is the mean.  This gives the client an advantage when trying to forecast future play budgets if financed threw a crowdfunding campaigns
 ![Mean_of_success_predicted_target](Mean_of_success_predicted_target.png)
     
 ## Results
 
--What are two conclusions you can draw about the Outcomes based on Launch Date?
-    -Do not launch crowdfunding before or after Christmas, during back to school season or right before Thanksgiving
-    -May and June have the highest numbers of successful outcomes but the average thought all the months is fairly consistant with the exception listed in 1) 
--What can you conclude about the Outcomes based on Goals?
-    The "sweet-spot" is in the $1K to $5k range, but specifically $1.6K to $3.2K range with a mean of almost $2.5K
--What are some limitations of this dataset?
-    Nothing to compare other trends with such as environmental, economic, etc. so conclusion #1, although seems reseasonable, is unproven.  
--What are some other possible tables and/or graphs that we could create?
-    Please see the "Challenges/Difficuties Encountered" section
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+    - Do not launch crowdfunding before or after Christmas, during back to school season or right before Thanksgiving
+    - May and June have the highest numbers of successful outcomes but the average thought all the months is fairly consistant with the exception listed in 1) 
+- What can you conclude about the Outcomes based on Goals?
+    - The "sweet-spot" is in the $1K to $5k range, but specifically $1.6K to $3.2K range with a mean of almost $2.5K
+- What are some limitations of this dataset?
+   - Nothing to compare other trends with such as environmental, economic, etc. so conclusion #1, although seems reseasonable, is unproven.  
+- What are some other possible tables and/or graphs that we could create?
+    - Please see the "Challenges/Difficuties Encountered" section
