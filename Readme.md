@@ -14,7 +14,7 @@
     The requested ranges are very broad when trying to narrow down "best chance for success" to gain funding for for future projects.
         1 Establish a smaller range withing the range of the overall scope.
         2 Establish a reasonable target amount to expect for future crowdfunding a project
-The below chart shows that within the range of $1k to $5k, just under $2500 is the mean.  This gives the client an advantage when trying to forecast future plays budgets if financed threw a crowdfunding campaign
+The below chart shows that within the range of $1k to $5k, just under $2500 is the mean.  This gives the client an advantage when trying to forecast future play budgets if financed threw a crowdfunding campaign
 ![Mean_of_success_predicted_target](Mean_of_success_predicted_target.png)
     
 ## Results
