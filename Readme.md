@@ -24,13 +24,14 @@
 - Establish a smaller range within a range for the data set
 - Establish a reasonable quantified target amount to expect for future crowdfunding a projects
 
-#### The below chart shows that within the range of $1k to $5k, just under $2500 is the mean.  This gives the client an advantage when trying to forecast future play budgets if financed threw a crowdfunding campaigns
+#### The below chart shows that within the range of $1K to $5K, the MEAN is just under $2500
+#### Upper quartile is $3.2K and the lower quartile $1.6K
 ![Mean_of_success_predicted_target](Mean_of_success_predicted_target.png)
     
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-    - Do not launch crowdfunding before or after Christmas, during back to school season or right before Thanksgiving
+    - Do not launch crowdfunding before or after Christmas, during back to school, or before Thanksgiving
     - May and June have the highest numbers of successful outcomes but the average throughout all months is fairly consistent
 - What can you conclude about the Outcomes based on Goals?
     - The "sweet-spot" is in the $1K to $5k range, but specifically $1.6K to $3.2K range with a mean of almost $2.5K
