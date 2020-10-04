@@ -38,4 +38,4 @@
 - What are some limitations of this dataset?
    - There is nothing to compare other trends such as environmental, economic, etc. so conclusion about the seasons, although seems reseasonable, cannot be proven with this data set.  
 - What are some other possible tables and/or graphs that we could create?
-    - Please see the "Challenges/Difficuties Encountered" section
+    - The box-plot above seemed almost necessary to me and I considered a able of averages to further explain the data.
