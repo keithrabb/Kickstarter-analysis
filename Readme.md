@@ -31,7 +31,7 @@
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
     - Do not launch crowdfunding before or after Christmas, during back to school season or right before Thanksgiving
-    - May and June have the highest numbers of successful outcomes but the average throughout all months is fairly consistant
+    - May and June have the highest numbers of successful outcomes but the average throughout all months is fairly consistent
 - What can you conclude about the Outcomes based on Goals?
     - The "sweet-spot" is in the $1K to $5k range, but specifically $1.6K to $3.2K range with a mean of almost $2.5K
 - What are some limitations of this dataset?
