@@ -34,7 +34,7 @@
     - Do not launch crowdfunding before or after Christmas, during back to school, or before Thanksgiving
     - May and June have the highest numbers of successful outcomes but the average throughout all months is fairly consistent
 - What can you conclude about the Outcomes based on Goals?
-    - The "sweet-spot" is in the $1K to $5k range, but specifically $1.6K to $3.2K range with a mean of almost $2.5K
+    - The "sweet-spot" for crowdfunding is in $1K-$5k range, but specifically $1.6K-$3.2K range with a mean of almost $2.5K
 - What are some limitations of this dataset?
    - Nothing to compare other trends with such as environmental, economic, etc. so conclusion #1, although seems reseasonable, is unproven.  
 - What are some other possible tables and/or graphs that we could create?
