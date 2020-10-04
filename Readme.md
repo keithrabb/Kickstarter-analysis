@@ -7,11 +7,11 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-    ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-    ![image_name](path/to/image_name.png)
+![image_name](path/to/image_name.png)
 ### Challenges and Difficulties Encountered
-    ![image_name](path/to/image_name.png)
+![image_name](path/to/image_name.png)
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
