@@ -37,6 +37,6 @@
 - What can you conclude about the Outcomes based on Goals?
     - The "sweet-spot" for crowdfunding is in $1K-$5k range, but specifically $1.6K-$3.2K, with a mean of almost $2.5K
 - What are some limitations of this dataset?
-   - There is nothing to compare other trends such as environmental, economic, etc. so conclusion about the seasons, although seems reseasonable, cannot be proven with this data set.  
+   - There is nothing to compare other trends such as spending habits, environmental factors, psychological factors to give us more insight to spending/crowdfunding behavior.   
 - What are some other possible tables and/or graphs that we could create?
-    - The box-plot above seemed almost necessary to me and I considered a able of averages to further explain the data.
+    - The box-plot above seemed almost necessary to me and I considered a table of averages to further explain the data.
