@@ -1,9 +1,9 @@
 # Kickstarting with Excel
-
+    Keith Rabb 281-513-5996 keithrabb@icloud.com
 ## Overview of Project
-
-### Purpose: To visualize campaign outcomes based on their launch dates and funding goals
-
+    Louise is interested in know how other kickstarter projects did with respect to launch dates and funding goals.
+### Purpose 
+    To visualize campaign outcomes based on their launch dates and funding goals
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
