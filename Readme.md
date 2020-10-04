@@ -6,12 +6,13 @@
     To visualize campaign outcomes based on their launch dates and funding goals.
 ## Analysis and Challenges
 #### Analysis Observations
-- Anything under 5000 had the highest success rate for funding.
-- 73% Chance of being funded in the $1K to $5K range.
-- Plays with a budget range from $5K to $25 has approximately 50% chance of funding.
-- Failure rate for crowdfunding projects above $45K is almost assured.
 - May and June have higher numbers of launch dates compared to other months, but their failure rate during those months is also high.
-- Only four months of the year in this data set were NOT above 60% for successful crowdfunding outcomes - Dec, Jan, Aug, and Oct. 
+- Only four months of the year in this data set were NOT above 60% for successful crowdfunding outcomes - Dec, Jan, Aug, and Oct
+
+- Crowdfunding projects under $5K had the highest success rate for funding.
+- 73% Chance of being funded in the $1K to $5K range. 76% chance under $1K. 
+- Plays with a budget range from $5K to $25 have approximately 50% chance of funding.
+- Failure rate for crowdfunding projects above $45K is almost assured.
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
