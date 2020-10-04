@@ -11,7 +11,7 @@
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
-![Mean_of_success_predicted_target](Resources/Mean_of_success_predicted_target.png)
+![Mean_of_success_predicted_target](Mean_of_success_predicted_target.png)
     
 ## Results
 
