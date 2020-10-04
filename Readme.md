@@ -1,7 +1,7 @@
 # Kickstarting with Excel
     Keith Rabb 281-513-5996 keithrabb@icloud.com
 ## Overview of Project
-    Louise is interested in know how other kickstarter projects (crowdfunding) did with respect to launch dates and funding goals when trying to fund plays.
+    Louise is interested in how other kickstarter projects (crowdfunding) did with respect to launch dates and funding goals when trying to fund plays.
 ### Purpose 
     To visualize campaign outcomes based on their launch dates and funding goals
 ## Analysis and Challenges
